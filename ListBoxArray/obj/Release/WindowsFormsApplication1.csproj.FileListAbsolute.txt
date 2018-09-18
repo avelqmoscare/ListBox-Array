@@ -1,0 +1,8 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.frmStrings.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
